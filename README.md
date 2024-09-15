@@ -9,6 +9,9 @@ The all rights belonged to Graphene and Advanced Material Laboratory (GAMLAB) un
 
 This repository contains lecture files, additional supplementary resources, and code snippets designed for engineering students and professionals who are interested in Python programming, machine learning (ML), artificial intelligence (AI), and their engineering applications.
 
+> **Note:** The language used in the code files and comments is Persian.
+
+
 ### Key Sections:
 - **Sessions 02 to 16**: Progressive Python tutorials that cover both basic and advanced topics.
 - **Supplementary Files**: Additional Python code, AI comments, and a comprehensive list of functions from the **Gamlab** package.
@@ -67,4 +70,4 @@ Alongside the main lecture content, the repository includes a directory named `s
 ## 💡 **How to Use This Repository?**
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/yourusername/Python-Machine_learning-for-Engineering-Tutorial---Feb-2024.git
+   git clone https://github.com/APMaii/Feb2024-Python-and-ML-for-Engineering-Tutorial.git
