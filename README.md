@@ -9,7 +9,7 @@ Welcome to **Python Machine Learning for Engineering** tutorial series (February
 
 This repository contains lecture files, additional supplementary resources, and code snippets designed for engineering students and professionals who are interested in Python programming, machine learning (ML), artificial intelligence (AI), and their engineering applications.
 
-> **Note:** The language used in the code files and comments is Persian.
+> **Note:** The language used in the command for desciption in code files is Persian.
 
 
 ### Key Sections:
