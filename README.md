@@ -1,8 +1,11 @@
 # Python-Machine_learning-for-Engineering-Tutorial---Feb 2024
+> **Note:** All comment desciption within code files written in Persian.
 
 Welcome to **Python Machine Learning for Engineering** tutorial series (February 2024 edition). This repository serves as a comprehensive resource for learning Python and machine learning techniques tailored for engineering applications. Through practical sessions and detailed examples, you'll explore a wide range of Python concepts, machine learning libraries, and real-world engineering problems.
 
 > **Note:** The all rights belonged to Graphene and Advanced Material Laboratory (GAMLAB) under supervision of Amirkabir University of Technology (AUT)
+> > **Lecturer: Ali Pilehvar Meibody** 
+
 ---
 
 ## 📚 **Overview**
