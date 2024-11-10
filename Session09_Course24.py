@@ -68,7 +68,8 @@ import math
 math.e #na parantez dare na hichi
 
 math.sqr() #yek tabe mikeshdma biron ()
-
+math.sin()
+math.cos()
 #gahi vagghta ye class miham bkshm biroon
 #shoma ba tabe ee daron e class kar dri
 math.mosalasat.sin()
